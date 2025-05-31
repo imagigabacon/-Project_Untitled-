@@ -1,3 +1,4 @@
 # [Project_Untitled]
-Hello! This is [Untitled] project! Check my profile and you can see the status of this repo!
-<img width="952" alt="image" src="https://github.com/user-attachments/assets/b2606c67-0ab9-42af-b381-2993653617b9" />
+Hello! This is [Untitled] project! Check my profile and you can see the status of this repo! It will be updated tons of times.
+<img width="940" alt="image" src="https://github.com/user-attachments/assets/a35365b0-03e1-44b0-b15c-5a8b370d4c77" />
+
